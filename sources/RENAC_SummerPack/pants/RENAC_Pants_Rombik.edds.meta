@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{97D34E45AA62F1D5}RENACIMIENTO_ClothingPack/RENAC_SummerPack/pants/RENAC_Pants_Rombik.edds"
+ Author "gux0707"
+ ChangeDate 853815481
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Pants_Rombik.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

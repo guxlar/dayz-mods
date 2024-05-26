@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A74BE06B8A4D49A2}RENACIMIENTO_ClothingPack/RENAC_SummerPack/shoes/RENAC_Shoes_Prizrak.edds"
+ Author "gux0707"
+ ChangeDate 1491349689
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Shoes_Prizrak.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

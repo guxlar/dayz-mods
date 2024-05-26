@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DF3236752CEDB018}RENACIMIENTO_ClothingPack/RENAC_SummerPack/jacket/RENAC_Jacket_Blink.edds"
+ Author "gux0707"
+ ChangeDate 1255944377
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Jacket_Blink.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

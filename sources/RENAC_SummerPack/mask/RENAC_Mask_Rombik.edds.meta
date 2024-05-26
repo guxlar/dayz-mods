@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{491D76A9749764D2}RENACIMIENTO_ClothingPack/RENAC_SummerPack/mask/RENAC_Mask_Rombik.edds"
+ Author "gux0707"
+ ChangeDate 182726841
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Mask_Rombik.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

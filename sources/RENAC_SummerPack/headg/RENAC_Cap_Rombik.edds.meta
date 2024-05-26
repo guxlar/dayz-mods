@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{751E4940A514F450}RENACIMIENTO_ClothingPack/RENAC_SummerPack/headg/RENAC_Cap_Rombik.edds"
+ Author "gux0707"
+ ChangeDate 685519033
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Cap_Rombik.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

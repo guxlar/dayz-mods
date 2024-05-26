@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{BC2BFF734F82B5F7}RENAC_MountainBag_1000/data/mountain_1000_co.edds"
+ Author "gux0707"
+ ChangeDate 784494769
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "mountain_1000_co.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

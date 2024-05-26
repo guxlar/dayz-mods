@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{46577FFDD691D443}RENACIMIENTO_ClothingPack/RENAC_SummerPack/mask/RENAC_Mask_YellowPrint.edds"
+ Author "gux0707"
+ ChangeDate 283390137
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Mask_YellowPrint.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

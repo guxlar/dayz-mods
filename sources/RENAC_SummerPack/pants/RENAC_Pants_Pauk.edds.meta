@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{FC93A4298E83CC0C}RENACIMIENTO_ClothingPack/RENAC_SummerPack/pants/RENAC_Pants_Pauk.edds"
+ Author "gux0707"
+ ChangeDate 753152185
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Pants_Pauk.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

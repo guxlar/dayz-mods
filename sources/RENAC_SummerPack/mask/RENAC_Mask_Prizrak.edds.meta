@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{288C93C312E9875F}RENACIMIENTO_ClothingPack/RENAC_SummerPack/mask/RENAC_Mask_Prizrak.edds"
+ Author "gux0707"
+ ChangeDate 149172409
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Mask_Prizrak.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

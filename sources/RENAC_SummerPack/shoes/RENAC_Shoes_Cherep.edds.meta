@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{66F4D23178FCED61}RENACIMIENTO_ClothingPack/RENAC_SummerPack/shoes/RENAC_Shoes_Cherep.edds"
+ Author "gux0707"
+ ChangeDate 1357131961
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Shoes_Cherep.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

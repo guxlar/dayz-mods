@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DE0693E51A3475A3}RENACIMIENTO_ClothingPack/RENAC_SummerPack/shoes/RENAC_Shoes_Yellow.edds"
+ Author "gux0707"
+ ChangeDate 1592012985
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Shoes_Yellow.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

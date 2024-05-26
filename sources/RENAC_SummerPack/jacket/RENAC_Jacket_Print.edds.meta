@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{CA34EDBD9B54FC57}RENACIMIENTO_ClothingPack/RENAC_SummerPack/jacket/RENAC_Jacket_Print.edds"
+ Author "gux0707"
+ ChangeDate 1423716537
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Jacket_Print.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

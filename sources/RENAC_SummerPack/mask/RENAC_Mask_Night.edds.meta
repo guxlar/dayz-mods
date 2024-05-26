@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{BE1E1C25944EE109}RENACIMIENTO_ClothingPack/RENAC_SummerPack/mask/RENAC_Mask_Night.edds"
+ Author "gux0707"
+ ChangeDate 48509113
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Mask_Night.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

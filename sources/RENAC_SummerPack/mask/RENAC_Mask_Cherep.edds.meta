@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F2A2E1B9AA87D8B2}RENACIMIENTO_ClothingPack/RENAC_SummerPack/mask/RENAC_Mask_Cherep.edds"
+ Author "gux0707"
+ ChangeDate 14954681
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENAC_Mask_Cherep.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
