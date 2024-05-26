@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{D0A793AC60E27034}RENACIMIENTO_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading3.edds"
+ Author "gux0707"
+ ChangeDate 242020537
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "loading3.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

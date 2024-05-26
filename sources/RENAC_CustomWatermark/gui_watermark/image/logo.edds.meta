@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C6587D0100DE614E}CustomWatermark/gui_watermark/image/logo.paa"
+ Author "gux0707"
+ ChangeDate -1973161815
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "logo.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
