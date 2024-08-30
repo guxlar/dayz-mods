@@ -1,0 +1,86 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FRANCOTIRADORES",
+  "Icon": "Deliver",
+  "Color": "FF0000FF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "asval",
+      "MaxPriceThreshold": 3200,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_val_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "b95",
+      "MaxPriceThreshold": 3400,
+      "MinPriceThreshold": 1700,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_awm",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_expansion_awm_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "scout",
+      "MaxPriceThreshold": 4200,
+      "MinPriceThreshold": 2100,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_scout_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "svd",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_svd_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "vss",
+      "MaxPriceThreshold": 3200,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_vss_10rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

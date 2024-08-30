@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TRADE_ROPA_ACCESORIOS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "ac_money_dollar_1",
+    "ac_money_dollar_10",
+    "ac_money_dollar_100",
+    "ac_money_dollar_2",
+    "ac_money_dollar_20",
+    "ac_money_dollar_5",
+    "ac_money_dollar_50"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "MASCARAS",
+    "MOCHILAS",
+    "CASCOS",
+    "GORRAS",
+    "SOMBREROS",
+    "FUNDAS",
+    "CHALECOS",
+    "CINTOS",
+    "GHILLIES",
+    "GUANTES"
+  ],
+  "Items": {}
+}

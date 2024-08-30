@@ -1,0 +1,69 @@
+{
+  "m_Version": 12,
+  "DisplayName": "NAVEGACION",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "binoculars",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 30,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "compass",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiongps",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "gpsreceiver",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "orienteeringcompass",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

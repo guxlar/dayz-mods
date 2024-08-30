@@ -1,0 +1,87 @@
+{
+  "m_Version": 12,
+  "DisplayName": "EXCHANGE",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 1,
+  "Items": [
+    {
+      "ClassName": "ac_money_dollar_1",
+      "MaxPriceThreshold": 1,
+      "MinPriceThreshold": 1,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_10",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_100",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_2",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_20",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_5",
+      "MaxPriceThreshold": 5,
+      "MinPriceThreshold": 5,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ac_money_dollar_50",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 5000,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

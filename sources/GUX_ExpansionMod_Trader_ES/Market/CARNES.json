@@ -1,0 +1,120 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CARNES",
+  "Icon": "Deliver",
+  "Color": "B6FF00FF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bearsteakmeat",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": 200,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "boarsteakmeat",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "chickenbreastmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cowsteakmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "deersteakmeat",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 20,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "goatsteakmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pigsteakmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "rabbitlegmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sheepsteakmeat",
+      "MaxPriceThreshold": 16,
+      "MinPriceThreshold": 8,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "wolfsteakmeat",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": 200,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

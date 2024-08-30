@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TRADE_COMPONENTES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Hammer",
+  "Currencies": [
+    "ac_money_dollar_1",
+    "ac_money_dollar_10",
+    "ac_money_dollar_100",
+    "ac_money_dollar_2",
+    "ac_money_dollar_20",
+    "ac_money_dollar_5",
+    "ac_money_dollar_50"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "ELECTRONICOS",
+    "FERRETERIA",
+    "BATERIAS:3",
+    "NAVEGACION",
+    "HERRAMIENTAS",
+    "LUCES"
+  ],
+  "Items": {
+    "nvgoggles": 3,
+    "rangefinder": 3,
+    "expansionhelicopterbattery": 1,
+    "truckbattery": 1,
+    "tlrlight": 3,
+    "universallight": 3,
+    "cartent": 1,
+    "combinationlock": 1,
+    "combinationlock4": 1,
+    "expansioncodelock": 1,
+    "largetent": 1,
+    "mediumtent": 1,
+    "partytent": 1
+  }
+}

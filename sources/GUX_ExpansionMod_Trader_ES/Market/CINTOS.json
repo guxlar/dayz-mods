@@ -1,0 +1,47 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CINTOS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "civilianbelt",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hippack_black",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hippack_green",
+        "hippack_medical",
+        "hippack_party"
+      ]
+    },
+    {
+      "ClassName": "militarybelt",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

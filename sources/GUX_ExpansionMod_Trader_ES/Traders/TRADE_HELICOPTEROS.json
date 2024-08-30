@@ -1,0 +1,40 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TRADE_HELICOPTEROS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Helicopter",
+  "Currencies": [
+    "ac_money_dollar_1",
+    "ac_money_dollar_10",
+    "ac_money_dollar_100",
+    "ac_money_dollar_2",
+    "ac_money_dollar_20",
+    "ac_money_dollar_5",
+    "ac_money_dollar_50"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "BATERIAS",
+    "HELICOPTEROS"
+  ],
+  "Items": {
+    "expansion_mh6_door_1_1": 3,
+    "expansion_mh6_door_1_2": 3,
+    "expansion_mh6_door_2_1": 3,
+    "expansion_mh6_door_2_2": 3,
+    "expansionhydraulichoses": 3,
+    "expansionigniterplug": 3,
+    "expansionmerlinbackwheel": 3,
+    "expansionmerlinfrontwheel": 3,
+    "expansionuh1hdoor_1_1": 3,
+    "expansionuh1hdoor_1_2": 3,
+    "expansionuh1hdoor_2_1": 3,
+    "expansionuh1hdoor_2_2": 3,
+    "headlighth7": 3,
+    "sparkplug": 3
+  }
+}
