@@ -22,45 +22,45 @@ class CfgVehicles
 		visibilityModifier=0.85000002;
 		hiddenSelectionsTextures[]=
 		{
-			"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa",
-			"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa",
-			"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa"
+			"RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa",
+			"RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa",
+			"RENAC_SummerPack\shoes\RENAC_Shoes_Blink.paa"
 		};
 	};
 	class RENAC_Shoes_Cherep : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Cherep.paa"};
 	};
 	class RENAC_Shoes_Night : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Night.paa"};
 	};
 	class RENAC_Shoes_Pauk : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Pauk.paa"};
 	};
 	class RENAC_Shoes_Print : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Print.paa"};
 	};
 	class RENAC_Shoes_Prizrak : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Prizrak.paa"};
 	};
 	class RENAC_Shoes_Rombik : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Rombik.paa"};
 	};
 	class RENAC_Shoes_XXX : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_XXX.paa"};
 	};
 	class RENAC_Shoes_Yellow : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_Yellow.paa"};
 	};
 	class RENAC_Shoes_YellowPrint : RENAC_Shoes_Blink {
 		scope = 2;
-		hiddenSelectionsTextures[] = {"RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa", "RENACIMIENTO_ClothingPack\RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa"};
+		hiddenSelectionsTextures[] = {"RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa", "RENAC_SummerPack\shoes\RENAC_Shoes_YellowPrint.paa"};
 	};
 };

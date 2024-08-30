@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6ECEB228A82C1293}RENAC_Umbrella/data/Vest2/vestumbrella2.paa"
+ Author "gux0707"
+ ChangeDate 899477700
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "vestumbrella2.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

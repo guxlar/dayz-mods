@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{11B37FF9708A9518}RENAC_Umbrella/data/Boots/bootsumbrella.paa"
+ Author "gux0707"
+ ChangeDate 764735684
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bootsumbrella.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

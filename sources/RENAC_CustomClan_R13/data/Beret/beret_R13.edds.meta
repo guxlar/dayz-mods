@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{10C845ABD7C3BBAE}RENAC_CustomClan_R13/data/Beret/beret_R13.edds"
+ Author "gux0707"
+ ChangeDate 1753034948
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "beret_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

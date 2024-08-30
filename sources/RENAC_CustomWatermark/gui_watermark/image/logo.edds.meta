@@ -1,7 +1,7 @@
 MetaFileClass {
- Name "{C6587D0100DE614E}CustomWatermark/gui_watermark/image/logo.paa"
- Author "gux0707"
- ChangeDate -1973161815
+ Name "{6A915D7334868DB6}RENAC_CustomWatermark/gui_watermark/image/logo.paa"
+ Author "guxlarland"
+ ChangeDate -945475390
  Configurations {
   PAAResourceClass PC {
    SourceFile "logo.paa"

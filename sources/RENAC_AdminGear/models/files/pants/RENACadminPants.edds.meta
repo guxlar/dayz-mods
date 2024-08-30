@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2B611CC261C51985}RENAC_AdminGear/models/files/pants/RENACadminPants.edds"
+ Author "gux0707"
+ ChangeDate 784134383
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "RENACadminPants.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{9AE9763940597C05}RENAC_Umbrella/data/Mtnbag/mtnUmbrella.paa"
+ Author "gux0707"
+ ChangeDate 127725764
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "mtnUmbrella.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

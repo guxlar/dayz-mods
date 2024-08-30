@@ -1,7 +1,7 @@
 MetaFileClass {
- Name "{5A4D1D75D7B624C7}RENACIMIENTO_LoadingScreen/LoadingScreen/OGG/musica.wav"
- Author "gux0707"
- ChangeDate 1484042425
+ Name "{D78CA83886577F2D}RENAC_LoadingScreen/OGG/musica.wav"
+ Author "guxlarland"
+ ChangeDate -1725091646
  Configurations {
   OGGResourceClass PC {
    SourceFile "musica.ogg"

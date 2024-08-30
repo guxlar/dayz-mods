@@ -1,17 +1,17 @@
 [
     {
-        "ImagePath": "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading1.edds"
+        "ImagePath": "RENAC_LoadingScreen/GUI/LoadingScreens/loading1.edds"
     },
     {
-        "ImagePath": "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading2.edds"
+        "ImagePath": "RENAC_LoadingScreen/GUI/LoadingScreens/loading2.edds"
     },
     {
-        "ImagePath": "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading3.edds"
+        "ImagePath": "RENAC_LoadingScreen/GUI/LoadingScreens/loading3.edds"
     },
     {
-        "ImagePath": "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading4.edds"
+        "ImagePath": "RENAC_LoadingScreen/GUI/LoadingScreens/loading4.edds"
     },
     {
-        "ImagePath": "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading5.edds"
+        "ImagePath": "RENAC_LoadingScreen/GUI/LoadingScreens/loading5.edds"
     }		
 ]

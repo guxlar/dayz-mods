@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{D78FAF1E6DEB0819}RENAC_AdminGear/models/files/jacket/RENACadminJacket.edds"
+ Author "gux0707"
+ ChangeDate 415035631
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "RENACadminJacket.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -4,7 +4,7 @@ ImageSetClass {
  Textures {
   ImageSetTextureClass {
    mpix 1
-   path "CustomWatermark/gui_watermark/image/logo.paa"
+   path "RENAC_CustomWatermark/gui_watermark/image/logo.paa"
   }
  }
  Images {

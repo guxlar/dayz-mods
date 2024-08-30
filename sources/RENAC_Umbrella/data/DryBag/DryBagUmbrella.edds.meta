@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B971C1B122EEFD34}RENAC_Umbrella/data/DryBag/DryBagUmbrella.paa"
+ Author "gux0707"
+ ChangeDate 1268052164
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "DryBagUmbrella.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B764F076E7974657}RENAC_CustomClan_R13/data/Pants/pantsumbrella_R13.paa"
+ Author "gux0707"
+ ChangeDate 269824196
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "pantsumbrella_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

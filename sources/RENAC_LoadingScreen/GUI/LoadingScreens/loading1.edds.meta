@@ -1,7 +1,7 @@
 MetaFileClass {
- Name "{7A47FD77D2B2964F}RENACIMIENTO_LoadingScreen/LoadingScreen/GUI/LoadingScreens/loading1.edds"
- Author "gux0707"
- ChangeDate 208466105
+ Name "{B20D67B5D5515BF6}RENAC_LoadingScreen/GUI/LoadingScreens/loading1.edds"
+ Author "guxlarland"
+ ChangeDate -1155714878
  Configurations {
   PNGResourceClass PC {
    SourceFile "loading1.png"

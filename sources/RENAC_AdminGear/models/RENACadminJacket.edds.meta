@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C60ED1C00BD425E0}RENAC_AdminGear/models/RENACadminJacket.edds"
+ Author "gux0707"
+ ChangeDate 491581679
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACadminJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -14,7 +14,7 @@ modded class MissionGameplay extends MissionBase
 		
 		if(LogoActivated())
 		{	
-			s_logowidget = GetGame().GetWorkspace().CreateWidgets("CustomWatermark/gui_watermark/client.layout");
+			s_logowidget = GetGame().GetWorkspace().CreateWidgets("RENAC_CustomWatermark/gui_watermark/client.layout");
 			s_logo = ImageWidget.Cast(s_logowidget.FindAnyWidget("logo"));
 			s_logowidget.Show(false);
 			ml_lTime = 0;

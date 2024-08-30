@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{056191D8160B1041}RENAC_CustomClan_R13/data/Gloves/glovesumbrella_R13.paa"
+ Author "gux0707"
+ ChangeDate 1645031620
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "glovesumbrella_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

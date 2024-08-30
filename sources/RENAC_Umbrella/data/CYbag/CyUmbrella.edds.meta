@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{20C17B981E097303}RENAC_Umbrella/data/CYbag/CyUmbrella.paa"
+ Author "gux0707"
+ ChangeDate 966062276
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "CyUmbrella.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

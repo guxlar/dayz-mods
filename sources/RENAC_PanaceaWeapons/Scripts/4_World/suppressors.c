@@ -1,0 +1,1 @@
+class origin12ga_suppressor_base extends SuppressorBase {};

@@ -30,12 +30,12 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/Scripts/3_Game"};				
+				files[] = {"RENAC_LoadingScreen/Scripts/3_Game"};				
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/scripts/5_Mission"};
+				files[] = {"RENAC_LoadingScreen/scripts/5_Mission"};
 			};
 		};
 	};
@@ -56,7 +56,7 @@ class CfgSoundShaders
 	class FMusic_Menu_SoundShader
 	{
 		samples[] = {
-					 {"\RENACIMIENTO_LoadingScreen\LoadingScreen\OGG\musica.ogg",1}
+					 {"\RENAC_LoadingScreen\OGG\musica.ogg",1}
 					}; 
 		volume = 0.65;  // volume of your music
 	};

@@ -31,11 +31,11 @@ class CfgMods
 {
 	class CustomWatermark
 	{
-		dir="CustomWatermark";
+		dir="RENAC_CustomWatermark";
 		hideName=1;
 		hidePicture=1;
-		name="CustomWatermark";
-		author="K3BA6";
+		name="RENAC_CustomWatermark";
+		author="K3BA6 guxlar";
 		extra=0;
 		type="mod";
 		dependencies[]=
@@ -48,7 +48,7 @@ class CfgMods
 			{
 				files[]=
 				{
-					"CustomWatermark/gui_watermark/image/logo.imageset"
+					"RENAC_CustomWatermark/gui_watermark/image/logo.imageset"
 				};
 			};
 			class missionScriptModule
@@ -56,7 +56,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"CustomWatermark/5_Mission"
+					"RENAC_CustomWatermark/5_Mission"
 				};
 			};
 		};

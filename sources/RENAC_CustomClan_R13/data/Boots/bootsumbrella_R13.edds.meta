@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A36C0B5E2D5FF2E7}RENAC_CustomClan_R13/data/Boots/bootsumbrella_R13.paa"
+ Author "gux0707"
+ ChangeDate 1041051844
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bootsumbrella_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

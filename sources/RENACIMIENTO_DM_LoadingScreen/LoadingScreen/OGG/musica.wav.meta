@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{48B9B45C26E8DE2B}@RENACIMIENTO_DM_LoadingScreen/LoadingScreen/OGG/musica.wav"
+ Author "gux0707"
+ ChangeDate -320474952
+ Configurations {
+  OGGResourceClass PC {
+   SourceFile "musica.ogg"
+  }
+  OGGResourceClass XBOX_ONE : PC {
+  }
+  OGGResourceClass PS4 : PC {
+  }
+  OGGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -18,24 +18,24 @@ class CustomLoadingScreenBackground
 class CustomLoadingScreenData
 {
 	bool ShowLogo = true;
-	string LogoPath = "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/logo.edds";
+	string LogoPath = "RENAC_LoadingScreen/GUI/logo.edds";
 	bool RandomizeBackgounds = true;
 	int LoadingBarColor = ARGB(255, 199, 38, 81);
 	bool UseCustomHints = true;
-	string HintIconPath = "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/icons/circle_info.edds";
+	string HintIconPath = "RENAC_LoadingScreen/GUI/icons/circle_info.edds";
 
 	ref array<ref CustomLoadingScreenBackground> m_ExBackgrounds;
 
 	void CustomLoadingScreenData()
 	{
 		m_ExBackgrounds = new array<ref CustomLoadingScreenBackground>;
-		JsonFileLoader<array<ref CustomLoadingScreenBackground>>.JsonLoadFile("RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/Scripts/Data/LoadingImages.json", m_ExBackgrounds);
+		JsonFileLoader<array<ref CustomLoadingScreenBackground>>.JsonLoadFile("RENAC_LoadingScreen/Scripts/Data/LoadingImages.json", m_ExBackgrounds);
 	}
 };
 
 modded class UiHintPanel
 {
-	protected const string 	m_ExDataPath = "RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/Scripts/Data/Hints.json"; //! Custom hints json path
+	protected const string 	m_ExDataPath = "RENAC_LoadingScreen/Scripts/Data/Hints.json"; //! Custom hints json path
 	protected ref CustomLoadingScreenData m_ExCustomLoadingScreenData;
 
 	override protected void LoadContentList()
@@ -210,7 +210,7 @@ modded class LoadingScreen
 		m_VanillaHintIcon.Unlink();
 
 		//! Create custom hint icon
-		m_ExHintIcon = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/layouts/hint_icon.layout", m_ExPanelWidget));
+		m_ExHintIcon = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENAC_LoadingScreen/GUI/layouts/hint_icon.layout", m_ExPanelWidget));
 		m_ExHintIcon.SetScreenPos(posHintIconX, posHintIconY, true);
 		m_ExHintIcon.LoadImageFile(0, m_ExCustomLoadingScreenData.HintIconPath);
 
@@ -225,7 +225,7 @@ modded class LoadingScreen
 			m_ImageLogoCorner.Show(false);
 			m_ImageLogoCorner.Unlink();
 
-			m_ImageLogoCorner = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/layouts/logo.layout", m_ExPanelWidget));
+			m_ImageLogoCorner = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENAC_LoadingScreen/GUI/layouts/logo.layout", m_ExPanelWidget));
 			m_ImageLogoCorner.SetScreenPos(posLogoX, posLogoY, true);
 			m_ImageLogoCorner.LoadImageFile(0, m_ExCustomLoadingScreenData.LogoPath);
 		}
@@ -243,7 +243,7 @@ modded class LoadingScreen
 			m_ProgressLoading.Show(false);
 			m_ProgressLoading.Unlink();
 
-			m_ProgressLoading = ProgressBarWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENACIMIENTO_LoadingScreen/RENAC_LoadingScreen/LoadingScreen/GUI/layouts/loading_bar.layout", m_ExPanelWidget));
+			m_ProgressLoading = ProgressBarWidget.Cast(game.GetLoadingWorkspace().CreateWidgets("RENAC_LoadingScreen/GUI/layouts/loading_bar.layout", m_ExPanelWidget));
 			m_ProgressLoading.SetScreenPos(posLoadingBarX, posLoadingBarY, true);
 			m_ProgressLoading.SetColor(m_ExCustomLoadingScreenData.LoadingBarColor);
 			ProgressAsync.SetProgressData(m_ProgressLoading);

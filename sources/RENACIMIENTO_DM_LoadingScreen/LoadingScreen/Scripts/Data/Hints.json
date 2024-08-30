@@ -1,0 +1,27 @@
+[
+	{
+		"m_Headline": "Combate PVP a muerte",
+		"m_ImagePath": "",
+		"m_Description": "El área PVP está limitada por el gas tóxico. Los jugadores fuera de él sufrirán daños. El área PVP se expande según la cantidad de jugadores en el servidor. El área PVP se mueve por el mapa."
+	},
+	{
+		"m_Headline": "Dispara a todo lo que se mueva",
+		"m_ImagePath": "",
+		"m_Description": "Al matar jugadores, ganas un nivel y dinero. Usa la tienda virtual con armas y ropa para equiparte mejor."
+	},	
+	{
+		"m_Headline": "Demuestra que eres el mejor",
+		"m_ImagePath": "",
+		"m_Description": "Kill feed y tabla de clasificación. Recarga automática de cargadores y municiones en el inventario. Reparación automática de ropa y armas en inventario."
+	},
+	{
+		"m_Headline": "No le temas a la muerte",
+		"m_ImagePath": "",
+		"m_Description": "Reaparición rápida después de la muerte. Elige tus armas y vuelve al combate lo antes posible."
+	},	
+	{
+		"m_Headline": "No hay distracciones",
+		"m_ImagePath": "",
+		"m_Description": "En tu camino están desactivadas todas las enfermedades y estadísticas. No hay zombis ni botín en el mapa."
+	}
+]

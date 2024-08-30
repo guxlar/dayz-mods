@@ -1,0 +1,9 @@
+class PNC_Optic_Holosight : ItemOptics {};
+class PNC_Optic_Holosight_tan : ItemOptics {};
+class PNC_Optic_LongRange : ItemOptics {};
+class PNC_Optic_LongRange_green : ItemOptics {};
+class PNC_Optic_LongRange_tan : ItemOptics {};
+class PNC_Optic_Ghost : ItemOptics {};
+class PNC_Optic_Rhino : ItemOptics {};
+class PNC_Optic_Rhino_tan : ItemOptics {};
+class PNC_Optic_NightScope : ItemOptics {};

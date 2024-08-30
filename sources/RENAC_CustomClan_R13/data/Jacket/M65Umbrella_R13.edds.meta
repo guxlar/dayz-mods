@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6151FB1C5E576BD7}RENAC_CustomClan_R13/data/Jacket/M65Umbrella_R13.paa"
+ Author "gux0707"
+ ChangeDate 1913467076
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "M65Umbrella_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

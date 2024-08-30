@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{E7D0F7B3A41E36CF}RENAC_Umbrella/data/Pants/pantsumbrella.paa"
+ Author "gux0707"
+ ChangeDate 362606788
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "pantsumbrella.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

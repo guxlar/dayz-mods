@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{288CFBE4A07FB605}RENAC_CustomClan_R13/data/BaseballCap/umbrellacap_R13.paa"
+ Author "gux0707"
+ ChangeDate 470626500
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "umbrellacap_R13.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{21E7BAE178610090}RENAC_Umbrella/data/Beret/beret.paa"
+ Author "gux0707"
+ ChangeDate 395636932
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "beret.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
