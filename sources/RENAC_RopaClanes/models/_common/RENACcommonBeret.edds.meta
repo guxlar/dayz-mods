@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{458545143F6D3D5E}RENAC_RopaClanes/models/_common/RENACcommonBeret.edds"
+ Author "gux0707"
+ ChangeDate 521007393
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACcommonBeret.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{40B84C1460D90BF2}RENAC_RopaClanes/models/_common/RENACcommonBoots.edds"
+ Author "gux0707"
+ ChangeDate 554561825
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACcommonBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

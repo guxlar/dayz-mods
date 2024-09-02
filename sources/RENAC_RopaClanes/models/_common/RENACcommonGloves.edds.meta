@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{26420C8D46222A99}RENAC_RopaClanes/models/_common/RENACcommonGloves.edds"
+ Author "gux0707"
+ ChangeDate 588116257
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACcommonGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

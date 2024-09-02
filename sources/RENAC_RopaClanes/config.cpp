@@ -18,6 +18,54 @@ class CfgVehicles
 	class CargoPants_ColorBase;
 	class MilitaryBelt;	
 	class BaseballCap_ColorBase;	
+	class JungleBoots_ColorBase;
+	class TacticalGloves_ColorBase;
+	class MilitaryBeret_Red;
+
+// accesorios comunes a todos los clanes
+
+	class RENAC_COMMON_Beret: MilitaryBeret_Red
+	{
+		scope=2;
+		displayName = "Beret";
+		descriptionShort = "Beret";
+		itemSize[] = {1,1};
+		hiddenSelectionsTextures[]=
+		{
+			"RENAC_RopaClanes\models\_common\RENACcommonBeret.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonBeret.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonBeret.paa"
+		};
+	};
+
+	class RENAC_COMMON_Boots: JungleBoots_ColorBase
+	{
+		scope=2;
+		displayName = "Boots";
+		descriptionShort = "Boots";
+		itemSize[] = {1,1};
+		itemsCargoSize[] = {0,0};
+		hiddenSelectionsTextures[]=
+		{
+			"RENAC_RopaClanes\models\_common\RENACcommonBoots.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonBoots.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonBoots.paa"
+		};
+	};
+
+	class RENAC_COMMON_Gloves: TacticalGloves_ColorBase
+	{
+		scope=2;
+		displayName = "Gloves";
+		descriptionShort = "Gloves";
+		itemSize[] = {1,1};
+		hiddenSelectionsTextures[]=
+		{
+			"RENAC_RopaClanes\models\_common\RENACcommonGloves.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonGloves.paa",
+			"RENAC_RopaClanes\models\_common\RENACcommonGloves.paa"
+		};
+	};	
 	
 // CLAN PARAMEDIC
 
