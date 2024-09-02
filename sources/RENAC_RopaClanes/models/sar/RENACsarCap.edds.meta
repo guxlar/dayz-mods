@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1BA20A12F6C48B45}RENAC_RopaClanes/models/sar/RENACsarCap.edds"
+ Author "gux0707"
+ ChangeDate 466448673
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACsarCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

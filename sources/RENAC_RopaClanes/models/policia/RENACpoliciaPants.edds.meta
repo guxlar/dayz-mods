@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{FB7ACB2137C39CE0}RENAC_RopaClanes/models/policia/RENACpoliciaPants.edds"
+ Author "gux0707"
+ ChangeDate 1435267361
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACpoliciaPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

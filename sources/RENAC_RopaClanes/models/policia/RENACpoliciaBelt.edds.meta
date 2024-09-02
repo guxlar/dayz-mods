@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{66BCF12F3801C9AA}RENAC_RopaClanes/models/policia/RENACpoliciaBelt.edds"
+ Author "gux0707"
+ ChangeDate 1368158497
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACpoliciaBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

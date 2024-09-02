@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{0E163398469A21B6}RENAC_RopaClanes/models/policia/RENACpoliciaCap.edds"
+ Author "gux0707"
+ ChangeDate 1842180385
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACpoliciaCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

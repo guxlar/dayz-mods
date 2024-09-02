@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5E1CF86B68192DF7}RENAC_RopaClanes/models/admin/RENACadminPants.edds"
+ Author "gux0707"
+ ChangeDate -1564233439
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACadminPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

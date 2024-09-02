@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{D463C65034ACB62F}RENAC_RopaClanes/models/guxlar/RENACguxlarPants.edds"
+ Author "gux0707"
+ ChangeDate -1228689119
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACguxlarPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

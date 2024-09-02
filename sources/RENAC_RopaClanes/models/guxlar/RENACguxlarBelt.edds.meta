@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{AF6F81E8FD20973A}RENAC_RopaClanes/models/guxlar/RENACguxlarBelt.edds"
+ Author "gux0707"
+ ChangeDate -1262243551
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACguxlarBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

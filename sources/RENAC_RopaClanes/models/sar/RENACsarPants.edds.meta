@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A65B980366BF00C0}RENAC_RopaClanes/models/sar/RENACsarPants.edds"
+ Author "gux0707"
+ ChangeDate -859590367
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACsarPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

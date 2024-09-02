@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{BF7B84CE51E26509}RENAC_RopaClanes/models/sar/RENACsarBelt.edds"
+ Author "gux0707"
+ ChangeDate -926699231
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACsarBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

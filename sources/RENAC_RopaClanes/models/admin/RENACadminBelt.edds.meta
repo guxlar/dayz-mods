@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{54363156A5BCE5F8}RENAC_RopaClanes/models/admin/RENACadminBelt.edds"
+ Author "gux0707"
+ ChangeDate -1631342303
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACadminBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8F4BD9B32DD3CDCF}RENAC_RopaClanes/models/paramedic/RENACparamedicCap.edds"
+ Author "gux0707"
+ ChangeDate 260895009
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACparamedicCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

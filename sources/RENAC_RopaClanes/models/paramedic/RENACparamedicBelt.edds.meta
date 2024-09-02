@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8F5CDE6FA535F2F4}RENAC_RopaClanes/models/paramedic/RENACparamedicBelt.edds"
+ Author "gux0707"
+ ChangeDate 227340577
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "RENACparamedicBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
