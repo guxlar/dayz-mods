@@ -9,11 +9,6 @@ INSTALACION (SOLAMENTE EN EL SERVIDOR)
 - Los archivos están en la carpeta 'mappings' de este mod.
 - Copiar los archivos .dze a la carpeta mpmissions/dayzOffline.Arland/EditorFiles
 
-COMO CONTACTARME:
-- Mi Discord: https://discord.gg/Sd5EJazQxW
-- Mi GitHub: https://github.com/guxlar
-- Donaciones PayPal: https://www.paypal.com/donate/?hosted_button_id=G4VS9S7DJGFQQ
-
 
 [EN]
 
