@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{75AB2B09D4A3FBB0}GUX_RopaAdmines/models/fbi/fbiJacket.edds"
+ Author "gux0707"
+ ChangeDate 1056125237
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

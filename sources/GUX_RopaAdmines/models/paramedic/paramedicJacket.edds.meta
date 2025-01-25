@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{76D7F783D70781E1}GUX_RopaAdmines/models/paramedic/paramedicJacket.edds"
+ Author "gux0707"
+ ChangeDate 955986229
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "paramedicJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

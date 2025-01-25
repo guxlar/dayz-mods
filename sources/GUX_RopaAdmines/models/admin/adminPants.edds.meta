@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A7C325E8C452FC43}GUX_RopaAdmines/models/admin/adminPants.edds"
+ Author "gux0707"
+ ChangeDate -2042334924
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

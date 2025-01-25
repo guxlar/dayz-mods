@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{4543E7353EE185EA}GUX_RopaAdmines/models/fbi/fbiPants.edds"
+ Author "gux0707"
+ ChangeDate 1089679669
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

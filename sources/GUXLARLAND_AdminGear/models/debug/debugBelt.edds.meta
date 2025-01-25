@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{08FE92D78D0B5C7A}GUXLARLAND_AdminGear/models/debug/debugBelt.edds"
+ Author "gux0707"
+ ChangeDate -2053983694
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

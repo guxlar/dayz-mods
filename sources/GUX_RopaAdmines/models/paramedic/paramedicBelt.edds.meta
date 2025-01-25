@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{4B4FE09E9F6D8A7B}GUX_RopaAdmines/models/paramedic/paramedicBelt.edds"
+ Author "gux0707"
+ ChangeDate 821768501
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "paramedicBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

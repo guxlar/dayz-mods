@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F1D2A966B7EA3E56}GUXLARLAND_AdminGear/models/debug/debugPants.edds"
+ Author "gux0707"
+ ChangeDate -1986874830
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

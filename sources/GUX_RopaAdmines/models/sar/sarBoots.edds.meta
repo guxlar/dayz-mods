@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{3C4FBC2226F8FC6B}GUX_RopaAdmines/models/sar/sarBoots.edds"
+ Author "gux0707"
+ ChangeDate 150679861
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "sarBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

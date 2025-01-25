@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C12DE06739F680C6}SLPD_RopaClanes/clanes/_common/debugGloves.edds"
+ Author "gux0707"
+ ChangeDate -644042189
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

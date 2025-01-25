@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{716689889C69D246}SLPD_RopaClanes/clanes/_common/debugCap.edds"
+ Author "gux0707"
+ ChangeDate -711151053
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

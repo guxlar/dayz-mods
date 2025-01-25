@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8B72DB4BCEC3210E}GUXLARLAND_AdminGear/models/guxlar/guxlarJacket.edds"
+ Author "gux0707"
+ ChangeDate -1416449486
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "guxlarJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

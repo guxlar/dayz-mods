@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{836C5D71B3C4FA19}GUX_RopaAdmines/models/admin/adminCap.edds"
+ Author "gux0707"
+ ChangeDate -2142998220
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{49D2F67A20C1D1D6}GUX_RopaAdmines/models/fbi/fbiBelt.edds"
+ Author "gux0707"
+ ChangeDate 921907509
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

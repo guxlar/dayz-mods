@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{26B0689C7E4C0AF4}GUX_RopaAdmines/models/admin/adminGloves.edds"
+ Author "gux0707"
+ ChangeDate -2109443788
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

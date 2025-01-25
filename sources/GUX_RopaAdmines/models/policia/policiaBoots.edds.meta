@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{D659E65E973ADA36}GUX_RopaAdmines/models/policia/policiaBoots.edds"
+ Author "gux0707"
+ ChangeDate -1032064715
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "policiaBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

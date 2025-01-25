@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{738DB63EA0C51195}GUX_RopaAdmines/models/admin/adminBelt.edds"
+ Author "gux0707"
+ ChangeDate -197365452
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1F1D900607BBEA1D}GUX_RopaAdmines/models/fbi/fbiCap.edds"
+ Author "gux0707"
+ ChangeDate 989016373
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

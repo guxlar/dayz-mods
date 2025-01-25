@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2320F918CC719CF8}GUX_RopaAdmines/models/sar/sarPants.edds"
+ Author "gux0707"
+ ChangeDate 284897589
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "sarPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

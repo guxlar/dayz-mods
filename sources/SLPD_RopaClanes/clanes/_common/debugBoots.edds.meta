@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{E56E606B1B5D86FD}SLPD_RopaClanes/clanes/_common/debugBoots.edds"
+ Author "gux0707"
+ ChangeDate -744705485
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

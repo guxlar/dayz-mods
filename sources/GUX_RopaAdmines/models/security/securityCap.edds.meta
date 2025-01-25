@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{EB1F688303DC8DFB}GUX_RopaAdmines/models/security/securityCap.edds"
+ Author "gux0707"
+ ChangeDate -1237028556
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

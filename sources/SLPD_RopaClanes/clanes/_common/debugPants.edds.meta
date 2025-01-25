@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{FA012551F1D4E66E}SLPD_RopaClanes/clanes/_common/debugPants.edds"
+ Author "gux0707"
+ ChangeDate -543378893
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

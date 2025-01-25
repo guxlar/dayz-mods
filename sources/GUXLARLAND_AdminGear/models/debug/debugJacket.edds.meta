@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F16B72051D4A5193}GUXLARLAND_AdminGear/models/debug/debugJacket.edds"
+ Author "gux0707"
+ ChangeDate -2020429262
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

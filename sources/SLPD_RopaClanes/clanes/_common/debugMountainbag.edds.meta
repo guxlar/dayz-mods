@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{FCBC05D456CC7BD3}SLPD_RopaClanes/clanes/_common/debugMountainbag.edds"
+ Author "gux0707"
+ ChangeDate -576933325
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugMountainbag.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

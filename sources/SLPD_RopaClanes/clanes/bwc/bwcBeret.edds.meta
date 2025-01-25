@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{733EE1F71C80ED60}SLPD_RopaClanes/clanes/bwc/bwcBeret.edds"
+ Author "gux0707"
+ ChangeDate -1213943245
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bwcBeret.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

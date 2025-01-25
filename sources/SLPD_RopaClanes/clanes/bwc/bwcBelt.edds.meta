@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{4A39C812E4ACB3B3}SLPD_RopaClanes/clanes/bwc/bwcBelt.edds"
+ Author "gux0707"
+ ChangeDate -1247497677
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bwcBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

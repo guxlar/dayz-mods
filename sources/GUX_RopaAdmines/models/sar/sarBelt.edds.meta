@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{CD0B5CE788403157}GUX_RopaAdmines/models/sar/sarBelt.edds"
+ Author "gux0707"
+ ChangeDate 83570997
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "sarBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

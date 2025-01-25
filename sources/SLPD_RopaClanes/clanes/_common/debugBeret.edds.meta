@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{E053696B44E9B051}SLPD_RopaClanes/clanes/_common/debugBeret.edds"
+ Author "gux0707"
+ ChangeDate -778259917
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugBeret.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{42BED73BBC313FAB}GUX_RopaAdmines/models/security/securityJacket.edds"
+ Author "gux0707"
+ ChangeDate -1169919692
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

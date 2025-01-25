@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{01059913069C71F7}GUX_AdminPlateCarrier/data/BlackPlateADMIN-front.edds"
+ Author "gux0707"
+ ChangeDate -314281415
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "BlackPlateADMIN-front.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

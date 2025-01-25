@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8394DF8B4B43DFFA}GUX_RopaAdmines/models/security/securityPants.edds"
+ Author "gux0707"
+ ChangeDate -1136365260
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

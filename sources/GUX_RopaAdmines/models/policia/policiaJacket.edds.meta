@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2D403545E969F51C}GUX_RopaAdmines/models/policia/policiaJacket.edds"
+ Author "gux0707"
+ ChangeDate -931401419
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "policiaJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

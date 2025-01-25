@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{7A00E2137845F860}SLPD_RopaClanes/clanes/_common/debugBelt.edds"
+ Author "gux0707"
+ ChangeDate -811814349
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "debugBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

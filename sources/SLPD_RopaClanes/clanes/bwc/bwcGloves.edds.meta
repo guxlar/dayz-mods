@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{FB73C33C47461B51}SLPD_RopaClanes/clanes/bwc/bwcGloves.edds"
+ Author "gux0707"
+ ChangeDate -1146834381
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bwcGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5A2CA20FD468E579}GUX_RopaAdmines/models/fbi/fbiBoots.edds"
+ Author "gux0707"
+ ChangeDate 955461941
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

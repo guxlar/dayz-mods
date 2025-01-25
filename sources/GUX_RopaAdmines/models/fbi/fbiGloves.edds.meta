@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C316609B287C90EE}GUX_RopaAdmines/models/fbi/fbiGloves.edds"
+ Author "gux0707"
+ ChangeDate 1022570805
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "fbiGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

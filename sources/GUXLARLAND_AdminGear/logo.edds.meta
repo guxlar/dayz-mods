@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B949A205910D41B6}GUXLARLAND_AdminGear/logo.edds"
+ Author "gux0707"
+ ChangeDate -879578574
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "logo.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

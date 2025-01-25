@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{CC185083D28342B8}GUX_RopaAdmines/models/sar/sarJacket.edds"
+ Author "gux0707"
+ ChangeDate 251343157
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "sarJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

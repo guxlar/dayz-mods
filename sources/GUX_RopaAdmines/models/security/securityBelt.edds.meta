@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{84A17BEE6F9800DA}GUX_RopaAdmines/models/security/securityBelt.edds"
+ Author "gux0707"
+ ChangeDate -1304137420
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

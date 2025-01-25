@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B8AC60D22EDB9CD0}GUX_RopaAdmines/models/admin/adminBoots.edds"
+ Author "gux0707"
+ ChangeDate -163811020
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

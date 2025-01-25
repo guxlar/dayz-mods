@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{21DA9A011155A91A}GUX_RopaAdmines/models/policia/policiaBelt.edds"
+ Author "gux0707"
+ ChangeDate -1065619147
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "policiaBelt.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{900D230E829361AA}GUX_RopaAdmines/models/admin/adminJacket.edds"
+ Author "gux0707"
+ ChangeDate -2075889356
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "adminJacket.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

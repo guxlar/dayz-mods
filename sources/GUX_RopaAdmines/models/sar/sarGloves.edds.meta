@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{7AA51B112E5C29E6}GUX_RopaAdmines/models/sar/sarGloves.edds"
+ Author "gux0707"
+ ChangeDate 217788725
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "sarGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

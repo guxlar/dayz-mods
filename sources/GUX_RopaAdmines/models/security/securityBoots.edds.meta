@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{9CFB9AB1A1CABF69}GUX_RopaAdmines/models/security/securityBoots.edds"
+ Author "gux0707"
+ ChangeDate -1270582988
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityBoots.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

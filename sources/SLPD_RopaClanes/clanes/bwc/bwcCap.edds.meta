@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{81D008CC48D347D6}SLPD_RopaClanes/clanes/bwc/bwcCap.edds"
+ Author "gux0707"
+ ChangeDate -1180388813
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bwcCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

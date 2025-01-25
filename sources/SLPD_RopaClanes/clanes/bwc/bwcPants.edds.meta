@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{696CADCDA9BDBB5F}SLPD_RopaClanes/clanes/bwc/bwcPants.edds"
+ Author "gux0707"
+ ChangeDate -1079725517
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "bwcPants.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

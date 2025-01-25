@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F4039CA940EE54F5}GUX_RopaAdmines/models/security/securityGloves.edds"
+ Author "gux0707"
+ ChangeDate -1203474124
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "securityGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C936A3647DB3BAA5}GUX_RopaAdmines/models/policia/policiaPants.edds"
+ Author "gux0707"
+ ChangeDate -897846987
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "policiaPants.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

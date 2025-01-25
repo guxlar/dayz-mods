@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B7B7EBC8564432E0}GUX_RopaAdmines/models/paramedic/paramedicCap.edds"
+ Author "gux0707"
+ ChangeDate 888877365
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "paramedicCap.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}

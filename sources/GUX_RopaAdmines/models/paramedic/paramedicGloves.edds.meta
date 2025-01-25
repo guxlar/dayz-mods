@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C06ABC112BD8EABF}GUX_RopaAdmines/models/paramedic/paramedicGloves.edds"
+ Author "gux0707"
+ ChangeDate 922431797
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "paramedicGloves.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
